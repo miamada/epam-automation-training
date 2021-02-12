@@ -1,5 +1,7 @@
 package com.epam.automation.training;
 
+import com.epam.automation.training.task1.*;
+
 /**
  * Hello world!
  *
@@ -8,6 +10,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        MainTask1.task1();
     }
 }
