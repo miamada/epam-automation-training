@@ -10,6 +10,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        MainTask1.task1();
+        MainTask1.menu1();
     }
 }
